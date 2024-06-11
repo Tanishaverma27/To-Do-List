@@ -9,7 +9,7 @@ To-Do list is a simple web application to save Your daily tasks in order not to 
 
 - Edit task
 
-- Delete single task
+- Delete task
 
 
 ### **Technologies used:**
